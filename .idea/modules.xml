@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RTLion-app2.iml" filepath="$PROJECT_DIR$/.idea/modules/RTLion-app2.iml" group="RTLion-app2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RTLion-app2/app" />
+    </modules>
+  </component>
+</project>
